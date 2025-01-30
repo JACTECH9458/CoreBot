@@ -9,7 +9,7 @@ O **CoreBot** foi projetado para o jogo **FRC 2025**, destacando-se em:
 - Remover algas do Recife.
 - Coletar coral de um lado e pontuar do outro lado do robô.
 ![Foto do CoreBot](Imagens/2025-CoreBot/ReefStation.png)
-![Foto do CoreBot](Imagens/2025-CoreBot/CoralStation.png)
+![Foto do CoreBot](Imagens/2025-CoreBot/ReefStation.png)
 
 ### Prioridades de Design
 - **Custo reduzido**: Focado em acessibilidade para equipes com recursos limitados.
