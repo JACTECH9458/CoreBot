@@ -1,5 +1,7 @@
 # CoreBot - Robô para o Jogo FRC 2025
 ![Foto do CoreBot](Imagens/2025-CoreBot/FrontView.png)
+CAD: [Link](https://cad.onshape.com/documents/72107048f239613af2a2a38e/w/d243c281e397d77bc8b48d36/e/0d23374bdcf1bfc317e9e097?renderMode=0&uiState=679be3f42a26c476026bc050)
+CÓDIGO: [Link](https://github.com/JACTECH9458/CoreBot/tree/main/CoreBot2025-Code)
 ## Visão Geral & Objetivos
 
 ### Propósito Principal
@@ -8,7 +10,7 @@ O **CoreBot** foi projetado para o jogo **FRC 2025**, destacando-se em:
 - Pontuar elementos de coral nos níveis L1, L2 e L3 do Recife.
 - Remover algas do Recife.
 - Coletar coral de um lado e pontuar do outro lado do robô.
-![Foto do CoreBot](Imagens/2025-CoreBot/ReefStation.png)
+![Foto do CoreBot](Imagens/2025-CoreBot/Reef.png)
 ![Foto do CoreBot](Imagens/2025-CoreBot/ReefStation.png)
 
 ### Prioridades de Design
