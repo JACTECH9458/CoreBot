@@ -1,6 +1,6 @@
 # CoreBot - Robô para o Jogo FRC 2025
 ![Foto do CoreBot](Imagens/2025-CoreBot/FrontView.png)
-CAD: [Link](https://cad.onshape.com/documents/72107048f239613af2a2a38e/w/d243c281e397d77bc8b48d36/e/0d23374bdcf1bfc317e9e097?renderMode=0&uiState=679be3f42a26c476026bc050)
+CAD: https://cad.onshape.com/documents/72107048f239613af2a2a38e/w/d243c281e397d77bc8b48d36/e/0d23374bdcf1bfc317e9e097?renderMode=0&uiState=679be3f42a26c476026bc050
 CÓDIGO: [Link](https://github.com/JACTECH9458/CoreBot/tree/main/CoreBot2025-Code)
 ## Visão Geral & Objetivos
 
